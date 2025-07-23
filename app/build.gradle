@@ -3,12 +3,13 @@ plugins {
 }
 
 android {
-    compileSdk 32
+    compileSdk 36
+    namespace "com.nhat.calculator"
 
     defaultConfig {
-        applicationId "com.nhat.camc_assignment4_3"
+        applicationId "com.nhat.calculator"
         minSdk 21
-        targetSdk 32
+        targetSdk 36
         versionCode 1
         versionName "1.0"
 

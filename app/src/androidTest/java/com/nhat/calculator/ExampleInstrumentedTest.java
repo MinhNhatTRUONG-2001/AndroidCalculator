@@ -1,4 +1,4 @@
-package com.nhat.camc_assignment4_3;
+package com.nhat.calculator;
 
 import android.content.Context;
 
